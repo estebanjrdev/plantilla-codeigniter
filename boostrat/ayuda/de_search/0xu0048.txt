@@ -1,0 +1,6 @@
+HACER
+ 6
+HORA
+ 3
+HUMANOS
+ 3

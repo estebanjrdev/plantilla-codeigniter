@@ -1,0 +1,12 @@
+MANERA
+ 5,2
+MANUAL
+ 3,2,1
+MUESTRE
+ 2
+MUY
+ 3
+MÓDULO
+ 1
+MÓDULOS
+ 7
